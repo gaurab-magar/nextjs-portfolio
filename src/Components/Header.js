@@ -12,7 +12,6 @@ const Header = () => {
           <span className="font-semibold text-xs md:text-sm ">Gaurab Magar</span>
         </Link>
 
-        {/* Center Navigation Links */}
         <div className="flex gap-3 md:gap-7 text-sm font-medium mx-auto">
           <Link href="#" className="hover:underline hover:underline-offset-4">
             About
@@ -25,7 +24,6 @@ const Header = () => {
           </Link>
         </div>
 
-        {/* Right Side Button */}
         <div className='hidden md:inline-flex'>
           <DownloadCV />
         </div>
