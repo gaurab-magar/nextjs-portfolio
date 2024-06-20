@@ -10,7 +10,7 @@ const TypeWritter = () => {
           'I build scalable and efficient applications',
         ],
         loop: true,
-        delaySpeed: 2000,
+        delaySpeed: 3000,
       })
   return (
         <h4 className='text-2xl font-mono py-2'>

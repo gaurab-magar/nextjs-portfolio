@@ -8,7 +8,7 @@ const Header = () => {
     <nav className="fixed z-50 top-2 left-4 md:left-48 rounded-3xl mx-auto w-11/12 md:w-9/12 bg-white bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg">
       <div className="container mx-auto flex h-12 items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-1 text-lg font-semibold">
-          <AiOutlineDingding className="text-2xl" />
+          <AiOutlineDingding className="text-2xl text-fuchsia-700" />
           <span className="font-semibold text-xs md:text-sm ">Gaurab Magar</span>
         </Link>
 
