@@ -20,7 +20,7 @@ const Skills = () => {
           <div className="space-y-2">
             <h2 className="font-bold tracking-[7px] md:tracking-[14px] text-lg uppercase">My Skills</h2>
             <p className="uppercase max-w-[900px] text-gray-500 text-sm md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              Some of the technologies I'm proficient in FrontEnd.
+              Some of the technologies Im proficient in FrontEnd.
             </p>
           </div>
         </div>
